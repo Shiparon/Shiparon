@@ -1,15 +1,6 @@
-* API to add shipment
-https://app.shiparon.tn/api/maparatunisie-ED542HG6JD4458CB5456/documentation/documentation.php
-* API to check shipment status
-https://app.shiparon.tn/api/maparatunisie-etat-ED542HG6JD4458CB5456/documentation/documentation.php
-
-
-
-
-
-
 === Shiparon ===
 Contributors: Montassar Hazgui
+Donate link: https://shiparon.com
 Tags: woocommerce, shipping, api
 Requires at least: 4.0
 Tested up to: 4.8
